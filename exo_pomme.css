@@ -1,0 +1,55 @@
+
+#main{
+    background-color: white;
+}
+table img:nth-child(2){
+    background-color: white;
+    margin-bottom: 188px;
+
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+header{
+    background-color: white;
+}
+#etape{
+    border: oldlace;
+    color: oldlace;
+    text-align: center;
+    box-shadow: 20px;
+}
+
+.paragraphe{
+   align-content: center;
+   float: right;
+   width: 90%;
+   margin-top: -15px;
+   margin-right: 10px;
+}
+.paragr2{
+    text-align: right;
+   align-content: right;
+}
+h3{
+    color: yellowgreen;
+}
+h3:nth-child(2){
+    border-left: 2px solid yellowgreen;
+}
+
+
+#bg_page img{
+    top: 500px;
+}
+hr{
+    background-color: yellowgreen;
+    color: yellowgreen;
+    margin-top:-4px
+}
+footer{
+    float: right;
+    color: rgb(35, 221, 28);
+    bottom: 10px;
+    padding: 25px;
+}
